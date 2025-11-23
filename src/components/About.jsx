@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { personalData } from "../assets/Data/personal";
-import { skillsData } from "../assets/data/skills";
+import { skillsData } from "../assets/Data/skills";
 
 const About = () => {
   const textVariants = {

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { personalData, socialLinks } from "../assets/data/personal";
+import { personalData, socialLinks } from "../assets/Data/personal";
 
 const Contact = () => {
   const [formData, setFormData] = useState({
