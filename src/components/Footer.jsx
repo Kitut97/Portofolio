@@ -1,5 +1,5 @@
 import React from "react";
-import { personalData, socialLinks } from "../assets/data/personal";
+import { personalData, socialLinks } from "../assets/Data/personal";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();

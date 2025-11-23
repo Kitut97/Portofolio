@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { personalData, socialLinks } from "../assets/data/personal";
+import { personalData, socialLinks } from "../assets/Data/personal";
 
 const Hero = () => {
   const containerVariants = {

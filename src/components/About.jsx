@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { personalData } from "../assets/data/personal";
+import { personalData } from "../assets/Data/personal";
 import { skillsData } from "../assets/data/skills";
 
 const About = () => {

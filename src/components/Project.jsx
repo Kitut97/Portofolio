@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { projectsData } from "../assets/data/project";
+import { projectsData } from "../assets/Data/project";
 
 // Animation variants
 const containerVariants = {
